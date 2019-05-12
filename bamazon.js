@@ -64,7 +64,6 @@ function takeOrder() {
                 console.log("Ok. " + res.product_name + " will cost " + res.price);
             })
             break;
-            buyProduct();
         });
 }
 
